@@ -11,7 +11,7 @@ function About() {
       >
         <div className="flex justify-center items-start flex-col md:max-w-[500px]">
           <h3 className="text-[20px] text-pink leading-[40px] tracking-[50%] font-Oswald font-medium">
-            About us
+            About us 
           </h3>
           <h1 className="font-Ubuntu font-bold text-white md:text-[65px] sm:text-[50px] text-[44px] md:leading-[70px] sm:leading-[58px] leading-[46px] my-10">
             Elysium Royale,
